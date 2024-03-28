@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/t83dYLw.png" width="500">
+<img src="https://i.imgur.com/CoKmZTU.png" width="500">
 
 #### Requires Portal RTX for some DLLs.
 1. Install Source SDK 2013 Multiplayer from Steam (search for it inside your library, it should show under Tools)
