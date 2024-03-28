@@ -12,15 +12,16 @@
   - engine.dll: `steamapps\Source SDK Base 2013 Multiplayer\bin\engine.dll`
 8. Download [remix.bat](https://github.com/sambow23/TF2RTX-Stuff/raw/main/remix.bat) , [dxvk.conf](https://github.com/sambow23/TF2RTX-Stuff/raw/main/dxvk.conf) , and [rtx.conf](https://github.com/sambow23/TF2RTX-Stuff/raw/main/rtx.conf) from the repo and add it to `steamapps\Source SDK Base 2013 Multiplayer\`
 9. Grab `stdshader_dx6.dll, stdshader_dx7.dll, stdshader_dx8.dll, stdshader_dx9.dll` from `steamapps\PortalRTX\bin` and put them into `Source SDK Base 2013 Multiplayer\bin` replacing everything
-10. Run the game with the `remix.bat`
-If you want to play with muliplayer, follow the guide below
+10. Run the game with the `remix.bat`, If you want to play with muliplayer, follow the guide below
 
 ### Multiplayer
 #### While this project isn't completely ready for multiplayer, it does work
+#### DISCLAIMER: Please note that large maps like Hydro have poor performance because of the lack of culling
 1. Copy the `tf_port` folder to `steamapps\sourcemods` and restart Steam
 2. In Steam go to `Team Fortress 2 1.0.1.8 Port`, right click it and click `Properties`
 3. In `Launch Options`, paste this line below into the field (change `-w` and `-h` to the resolution of your display, do not change it ingame)
 - ```-dxlevel 70 -novid -w 1280 -h 720 -noborder -windowed +r_3dsky 0 +r_WaterDrawReflection 0 +r_WaterDrawRefraction 0 +r_shadows 0 +r_frustumcullworld 0 +r_unloadlightmaps 1 1 +mat_specular 0 +mat_bumpmap 0 +mat_normalmap 0 +mat_parallaxmap 0 +r_staticprop_lod 0```
+
 
 
 #### Credits:
