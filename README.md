@@ -9,7 +9,7 @@
 6. Move and replace the binaries at these locations
   - client.dll: `steamapps\Source SDK Base 2013 Multiplayer\tf_port\bin\client.dll`
   - engine.dll: `steamapps\Source SDK Base 2013 Multiplayer\bin\engine.dll`
-7. Download `remix.bat` and `rtx.conf` from the repo and add it to `steamapps\Source SDK Base 2013 Multiplayer\`
+7. Download `remix.bat` , `dxvk.conf` , and `rtx.conf` from the repo and add it to `steamapps\Source SDK Base 2013 Multiplayer\`
 8. grab `stdshader_dx6.dll, stdshader_dx7.dll, stdshader_dx8.dll, stdshader_dx9.dll` from `steamapps\PortalRTX\bin` and put them into `Source SDK Base 2013 Multiplayer\bin` replacing everything
 9. Run the game with the `remix.bat`
 
