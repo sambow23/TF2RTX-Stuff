@@ -10,7 +10,7 @@
 6. Select the .bps patch and then select the matching dll to patch in the locations below, then select it again, it should say: `The patch was applied successfully`
   - client.dll: `steamapps\Source SDK Base 2013 Multiplayer\tf_port\bin\client.dll`
   - engine.dll: `steamapps\Source SDK Base 2013 Multiplayer\bin\engine.dll`
-7. Download `remix.bat` , `dxvk.conf` , and `rtx.conf` from the repo and add it to `steamapps\Source SDK Base 2013 Multiplayer\`
+7. Download [remix.bat](https://github.com/sambow23/TF2RTX-Stuff/raw/main/remix.bat) , [dxvk.conf](https://github.com/sambow23/TF2RTX-Stuff/raw/main/dxvk.conf) , and [rtx.conf](https://github.com/sambow23/TF2RTX-Stuff/raw/main/rtx.conf) from the repo and add it to `steamapps\Source SDK Base 2013 Multiplayer\`
 8. grab `stdshader_dx6.dll, stdshader_dx7.dll, stdshader_dx8.dll, stdshader_dx9.dll` from `steamapps\PortalRTX\bin` and put them into `Source SDK Base 2013 Multiplayer\bin` replacing everything
 9. Run the game with the `remix.bat`
 
