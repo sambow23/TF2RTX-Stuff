@@ -6,6 +6,7 @@
 2. Download [BlueAmulet's SourceRTXTweaks Patcher](https://github.com/BlueAmulet/SourceRTXTweaks/raw/main/applypatch.py)
    - Right click the page and click `Save as...` and save it to `steamapps\Team Fortress 2\`
 3. Download [remix.bat](https://github.com/sambow23/TF2RTX-Stuff/raw/main/tf2_modern/remix.bat) , [dxvk.conf](https://github.com/sambow23/TF2RTX-Stuff/raw/main/tf2_modern/dxvk.conf) , and [rtx.conf](https://github.com/sambow23/TF2RTX-Stuff/raw/main/tf2_modern/rtx.conf) from the repo and place them in `steamapps\Team Fortress 2\`
+   - Right click the page and click `Save as...` and save it to `steamapps\Team Fortress 2\`
 4. Install [Python](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe), make sure to click this option in the installer
    - <img src="https://i.imgur.com/oy7l4dl.png" width="250">
 5. Open a CMD window inside of `steamapps\Team Fortress 2\`, run this command: `python applypatch.py`, the patched files will be located at `steamapps\Team Fortress 2\patched`.
