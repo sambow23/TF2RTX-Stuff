@@ -46,3 +46,4 @@
 - [BlueAmulet for their Source Engine patches for RTX Remix](https://github.com/BlueAmulet/SourceRTXTweaks)
 - @maksw2 on Discord
 - @umfc on Discord
+- @popo7235 on Discord
