@@ -1,14 +1,5 @@
 <img src="https://i.imgur.com/CoKmZTU.png" width="500">
-<details><summary>Modern TF2</summary>
 
-1. Download the latest version of [RTX Remix](https://github.com/NVIDIAGameWorks/rtx-remix/releases/download/remix-0.4.1/remix-0.4.1-release.zip), extract the archive into `steamapps\Team Fortress 2\`
-2. Download [BlueAmulet's SourceRTXTweaks Patcher](https://github.com/BlueAmulet/SourceRTXTweaks/raw/main/applypatch.py)
-- Right click the page and click `Save as...` and save it to `steamapps\Team Fortress 2\`
-3. Download the rtx.conf, dxvk.conf, and remix.bat from this repo
- </details>
-
-<details><summary>TF2 2008 SDK 2013 Port</summary>
-  
 #### Requires [Portal RTX](https://store.steampowered.com/app/2012840/Portal_with_RTX/) for some DLLs.
 1. Install Source SDK 2013 Multiplayer from Steam (search for it inside your library, it should show under Tools).
 2. Download the latest version of [RTX Remix](https://github.com/NVIDIAGameWorks/rtx-remix/releases/download/remix-0.4.1/remix-0.4.1-release.zip), extract the archive into `steamapps\Source SDK Base 2013 Multiplayer\`
@@ -31,7 +22,6 @@
 3. In `Launch Options`, paste this line below into the field (change `-w` and `-h` to the resolution of your display, **do not change it ingame**).
 - ```-dxlevel 70 -novid -w 1280 -h 720 -noborder -windowed +r_3dsky 0 +r_WaterDrawReflection 0 +r_WaterDrawRefraction 0 +r_shadows 0 +r_frustumcullworld 0 +r_unloadlightmaps 1 1 +mat_specular 0 +mat_bumpmap 0 +mat_normalmap 0 +mat_parallaxmap 0 +r_staticprop_lod 0```
 
- </details>
 
 
 #### Credits:
