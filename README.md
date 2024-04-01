@@ -2,7 +2,7 @@
 <details><summary>Modern TF2</summary>
 
 #### Multiplayer does not work VAC servers, do not try to curciumvent VAC protections for online play, use a patched or insecure server instead
-1. Download the latest version of [RTX Remix](https://github.com/NVIDIAGameWorks/rtx-remix/releases/download/remix-0.4.1/remix-0.4.1-release.zip), extract the archive into `steamapps\Team Fortress 2\`
+1. Download the latest version of [RTX Remix](https://github.com/NVIDIAGameWorks/rtx-remix/releases/download/remix-0.4.1/remix-0.4.1-release.zip), extract the archive into `steamapps\Team Fortress 2\bin`
 2. Download [BlueAmulet's SourceRTXTweaks Patcher](https://github.com/BlueAmulet/SourceRTXTweaks/raw/main/applypatch.py)
    - Right click the page and click `Save as...` and save it to `steamapps\Team Fortress 2\`
 3. Download [remix.bat](https://github.com/sambow23/TF2RTX-Stuff/raw/main/tf2_modern/remix.bat) , [dxvk.conf](https://github.com/sambow23/TF2RTX-Stuff/raw/main/tf2_modern/dxvk.conf) , and [rtx.conf](https://github.com/sambow23/TF2RTX-Stuff/raw/main/tf2_modern/rtx.conf) from the repo and place them in `steamapps\Team Fortress 2\`
